@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About me
 
-I'm **Selamawit (Selam)**, a full-stack developer based in **Addis Ababa, Ethiopia**. I'm a 4th-year Software Engineering student at **Dire Dawa University** and currently a **Full-Stack Intern at Etta Solutions**.
+I'm **Selamawit (Selam)**, a full-stack developer based in **Addis Ababa, Ethiopia**. I'm a 4th-year Software Engineering student at **Dire Dawa University** 
 
 I'm passionate about building practical software products that solve real problems for the Ethiopian market.
 
