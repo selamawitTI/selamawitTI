@@ -68,7 +68,7 @@ I'm interested in building software tailored to how people in Ethiopia live and 
 
 ## 🎯 Currently
 
-- 💼 Working as a Full-Stack Intern at Etta Solutions
+- 💼 Working as a Full-Stack Developer
 - 🎓 Finishing my Software Engineering degree at Dire Dawa University
 - 🌱 Growing my full-stack skills with TypeScript
 - 🤝 Open to internships, collaborations, and learning opportunities
